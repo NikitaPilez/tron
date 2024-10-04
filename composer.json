@@ -1,0 +1,18 @@
+{
+    "name": "nikita/tronwork",
+    "autoload": {
+        "psr-4": {
+            "Nikita\\Tronwork\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita Pilets",
+            "email": "pileznikita99@gmail.com"
+        }
+    ],
+    "require": {
+        "simplito/elliptic-php": "^1.0",
+        "kornrunner/keccak": "^1.1"
+    }
+}
